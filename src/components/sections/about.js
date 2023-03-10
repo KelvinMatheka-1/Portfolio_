@@ -143,31 +143,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Kelvin and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2021 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello, my name is Kelvin Matheka, and I am a software developer with a passion for
+              creating innovative solutions to real-world problems. I have honed my skills through a
+              coding bootcamp, and open-source projects where I have completed multiple projects.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              One of my favorite projects is an events e-commerce web app that allows users to book
+              event tickets from the comfort of their phone or laptop. Through this project, I was
+              able to develop my skills in web development, user experience design, and database
+              management.
             </p>
 
-            <p>
+            {/* <p>
               I also recently{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
                 launched a course
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p>
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
