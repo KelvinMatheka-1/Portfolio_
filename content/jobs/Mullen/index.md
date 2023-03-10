@@ -3,7 +3,7 @@ date: '2015-12-21'
 title: 'Creative Technologist Co-op'
 company: 'MullenLowe'
 location: 'Boston, MA'
-range: 'July - December 2020'
+range: 'August 2021 - March 2022'
 url: 'https://us.mullenlowe.com/'
 ---
 

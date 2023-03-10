@@ -1,9 +1,9 @@
 ---
-date: '2018-05-14'
+date: '2021-05-14'
 title: 'Freelance WordPress Web Developer'
 company: 'WordPress'
 location: 'Remote'
-range: 'May 2018 - July 2022'
+range: 'May 2021 - July 2022'
 # url: 'https://www.wordpress.com/'
 ---
 
