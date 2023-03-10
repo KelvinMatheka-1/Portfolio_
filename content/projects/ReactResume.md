@@ -1,7 +1,7 @@
 ---
 date: '2016-08-01'
 title: 'React Profile'
-github: 'https://github.com/bchiang7/react-profile'
+github: 'https://github.com/KelvinMatheka-1'
 external: 'https://bchiang7.github.io/react-profile/'
 tech:
   - React

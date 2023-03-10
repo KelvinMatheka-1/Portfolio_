@@ -143,9 +143,9 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello, my name is Kelvin Matheka, and I am a software developer with a passion for
-              creating innovative solutions to real-world problems. I have honed my skills through a
-              coding bootcamp, and open-source projects where I have completed multiple projects.
+              I am a software developer with a passion for creating innovative solutions to
+              real-world problems. I have honed my skills through a coding bootcamp, and open-source
+              projects where I have completed multiple projects.
             </p>
 
             <p>
