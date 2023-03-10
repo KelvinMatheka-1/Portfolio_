@@ -125,7 +125,15 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'React',
+    'Ruby',
+    'Ruby on Rails',
+    'Tailwind CSS',
+    'Postgresql',
+    'WordPress',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,8 +143,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
+              Hello! My name is Kelvin and I enjoy creating things that live on the internet. My
+              interest in web development started back in 2021 when I decided to try editing custom
               Tumblr themes — turns out hacking together a custom reblog button taught me a lot
               about HTML &amp; CSS!
             </p>
@@ -173,9 +181,9 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.JPG"
               width={500}
-              quality={95}
+              quality={100}
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"
             />
